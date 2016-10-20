@@ -9,7 +9,7 @@ namespace BeHealthy.Entities.ModelsMapping
     using BeHealthy.Entities.Models;
     using System.Data.Entity.ModelConfiguration;
 
-    public class DishMap : EntityTypeConfiguration<Dish>
+    public sealed class DishMap : EntityTypeConfiguration<Dish>
     {
         public DishMap()
         {

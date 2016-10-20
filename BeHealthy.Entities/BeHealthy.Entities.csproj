@@ -51,9 +51,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BeHealthyContext.cs" />
+    <Compile Include="Interfaces\IEntityModel.cs" />
     <Compile Include="Migrations\201610191009143_First.cs" />
     <Compile Include="Migrations\201610191009143_First.Designer.cs">
       <DependentUpon>201610191009143_First.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201610201535582_Add_Eating.cs" />
+    <Compile Include="Migrations\201610201535582_Add_Eating.Designer.cs">
+      <DependentUpon>201610201535582_Add_Eating.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="ModelsMapping\FoodMap.cs" />
@@ -74,6 +79,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201610191009143_First.resx">
       <DependentUpon>201610191009143_First.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201610201535582_Add_Eating.resx">
+      <DependentUpon>201610201535582_Add_Eating.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

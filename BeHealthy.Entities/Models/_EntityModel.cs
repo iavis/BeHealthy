@@ -1,7 +1,9 @@
 ﻿
 namespace BeHealthy.Entities.Models
 {
-    public class EntityModel
+    using BeHealthy.Entities.Interfaces;
+
+    public abstract class EntityModel : IEntityModel
     {
         public int Id { get; set; }
 

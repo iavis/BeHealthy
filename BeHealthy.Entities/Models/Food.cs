@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BeHealthy.Entities.Models
 {
-    public class Food : EntityModel
+    public sealed class Food : EntityModel
     {
         
         public string Name { get; set; }

@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BeHealthy.Entities.Models
+namespace BeHealthy.Entities.Interfaces
 {
-    public sealed class Eating : EntityModel
+    public interface IEntityModel
     {
-
-
-
+        int Id { get; set; }
     }
-
 }
