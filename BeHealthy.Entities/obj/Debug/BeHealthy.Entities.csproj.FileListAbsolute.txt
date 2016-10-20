@@ -1,0 +1,12 @@
+I:\Projects\BeHealthy\BeHealthy.Entities\bin\Debug\BeHealthy.Entities.dll
+I:\Projects\BeHealthy\BeHealthy.Entities\bin\Debug\BeHealthy.Entities.pdb
+I:\Projects\BeHealthy\BeHealthy.Entities\obj\Debug\BeHealthy.Entities.dll
+I:\Projects\BeHealthy\BeHealthy.Entities\obj\Debug\BeHealthy.Entities.pdb
+I:\Projects\BeHealthy\BeHealthy.Entities\obj\Debug\BeHealthy.Entities.csprojResolveAssemblyReference.cache
+I:\Projects\BeHealthy\BeHealthy.Entities\bin\Debug\BeHealthy.Entities.dll.config
+I:\Projects\BeHealthy\BeHealthy.Entities\bin\Debug\EntityFramework.dll
+I:\Projects\BeHealthy\BeHealthy.Entities\bin\Debug\EntityFramework.SqlServer.dll
+I:\Projects\BeHealthy\BeHealthy.Entities\bin\Debug\EntityFramework.xml
+I:\Projects\BeHealthy\BeHealthy.Entities\bin\Debug\EntityFramework.SqlServer.xml
+I:\Projects\BeHealthy\BeHealthy.Entities\obj\Debug\BeHealthy.Entities.Migrations.First.resources
+I:\Projects\BeHealthy\BeHealthy.Entities\obj\Debug\BeHealthy.Entities.csproj.GenerateResource.Cache
