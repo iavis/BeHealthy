@@ -59,7 +59,8 @@
     <Compile Include="ModelsMapping\FoodMap.cs" />
     <Compile Include="ModelsMapping\DishMap.cs" />
     <Compile Include="Models\Dish.cs" />
-    <Compile Include="Models\_Entity.cs" />
+    <Compile Include="Models\Eating.cs" />
+    <Compile Include="Models\_EntityModel.cs" />
     <Compile Include="Models\Food.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

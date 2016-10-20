@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace BeHealthy.Entities.Models
 {
-    public class Dish : EntityModel
+    public class Eating : EntityModel
     {
-        public string Name { get; set; }
+
+
 
     }
 
